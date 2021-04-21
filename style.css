@@ -72,3 +72,34 @@ body{
     font-size: 1.2rem;
     position:relative;
  }
+#accueil{
+    margin-bottom: 40px ;
+    min-height: 600px;
+    padding-top: 100px;
+    align-items: center;
+}
+
+ .column-left{
+    height: auto;
+    color: #fff;
+    text-align: center;
+ }
+ .carousel-inner {
+    align-items: center;
+    width: 100%;
+    margin: auto;
+ }
+
+ .column-right{
+    height: auto;
+    margin-right: 0px;
+ }
+
+ .paragraph0{
+   text-align: center;
+}
+h1,h2,h3,h4{
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
