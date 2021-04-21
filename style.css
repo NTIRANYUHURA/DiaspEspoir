@@ -110,9 +110,6 @@ h1,h2,h3,h4{
 .paragraph1{
     text-align: justify ;
     padding-top: 30px;
-    
-
-
 }
 .paragraph2{
     padding-top: 20px;
@@ -228,3 +225,9 @@ h1,h2,h3,h4{
 .fait{
    text-align: center;
 }
+
+@media (max-width: 576px) {
+    #col1{
+        margin-bottom: 20px;
+    }
+    }
