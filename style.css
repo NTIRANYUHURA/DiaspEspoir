@@ -103,3 +103,42 @@ h1,h2,h3,h4{
     padding-top: 40px;
     padding-bottom: 30px;
 }
+.paragraph01{
+    align-items: center;
+}
+
+.paragraph1{
+    text-align: justify ;
+    padding-top: 30px;
+    
+
+
+}
+.paragraph2{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    align-items: justify;
+}
+
+.paragraph3{
+    text-align:center ;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.paragraph4{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+#part1{
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#part2{
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
