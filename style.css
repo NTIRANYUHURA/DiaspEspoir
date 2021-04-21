@@ -142,3 +142,19 @@ h1,h2,h3,h4{
     margin-left: 10px;
     margin-right: 10px;
 }
+
+.paragraph7{
+    padding-top: 10px;
+}
+.paragraph8 {
+    text-align: center;
+}
+
+.text7 {
+    margin-top: 30px;
+}
+
+#missions{
+    padding-top: 110px;
+    border-radius: 20px;
+}
