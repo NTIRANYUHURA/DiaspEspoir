@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    margin:0;
+    padding:0;
+    background-color: rgba(36, 43, 66, 0.867);
+    font-size:18px;
+    color: #fff;
+    font-family:'Montserrat', sans-serif ;
+}
+.navbar{
+    background-color: rgb(0, 0, 0);
+    border-bottom: 6px solid green;
+    padding:20px 10px;
+    height: auto;
+   }
+ a{
+    color:#fff;
+    font-weight: 500;
+
+ }
+ a:hover{
+    color:white
+ }
+
+ .navbar .navbar-brand a {
+    padding:1rem 0;
+    display:block;
+    text-decoration: none;
+ }
+ .navbar-brand{
+    font-size:2.2rem;
+    color:white;
+    font-family: 'Indie Flower', cursive;
+ }
+  .navbar-toggler {
+    border: none;
+    padding:10px 6px;
+    outline:none;
+ }
+ .navbar-toggler span{
+    display: block;
+    width:22px;
+    height:2px;
+    border:1px;
+    background: white;
+ }
+ .navbar-toggler span + span{
+    margin-top:4px;
+    width:22px;
+ }
+ .navbar-toggler span + span +span{
+   margin-top:4px;
+   width:22px;
+
+ }
+ .navbar-nav{
+    justify-content: end;
+ }
+ .nav-item a:hover{
+    background-color:green;
+    border-bottom: 6px solid green;
+ }
+
+ .navbar-expand-lg .navbar-nav .nav-link{
+    padding:1.4rem 1rem;
+    font-size: 1.2rem;
+    position:relative;
+ }
